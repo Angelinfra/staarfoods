@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15e40725.css",
+    "main.js": "/static/js/main.a0876bff.js",
+    "static/js/787.0f8d78ff.chunk.js": "/static/js/787.0f8d78ff.chunk.js",
+    "static/media/sc-2.jpg": "/static/media/sc-2.ea741aba8c4dcff936dc.jpg",
+    "static/media/cv-2.jpeg": "/static/media/cv-2.ca58cc91d2bd4fa65fb9.jpeg",
+    "static/media/cv-1.jpeg": "/static/media/cv-1.66c6b48c4da247740665.jpeg",
+    "static/media/sc-3.jpeg": "/static/media/sc-3.467338254b2d5342d76c.jpeg",
+    "static/media/sc-5.jpeg": "/static/media/sc-5.a81110d2650a1c242172.jpeg",
+    "static/media/cv-4.jpeg": "/static/media/cv-4.c591dbcc9a4282253d66.jpeg",
+    "static/media/sc-6.jpeg": "/static/media/sc-6.1d983a8ad6b653115925.jpeg",
+    "static/media/cv-5.jpeg": "/static/media/cv-5.b80818353340792499cf.jpeg",
+    "static/media/sc-4.jpeg": "/static/media/sc-4.983722646aa70a2e95ea.jpeg",
+    "static/media/sc-7.jpeg": "/static/media/sc-7.8d71bfae3892e10a6af7.jpeg",
+    "static/media/staarlogo.png": "/static/media/staarlogo.2cc274c9112643b2953a.png",
+    "static/media/cv-3.jpeg": "/static/media/cv-3.a483df4f68687a9358aa.jpeg",
+    "static/media/sc-1.webp": "/static/media/sc-1.1f2540cdd949db00d634.webp",
+    "static/media/cv-6.webp": "/static/media/cv-6.9b551f92d0c465ea202d.webp",
+    "index.html": "/index.html",
+    "main.15e40725.css.map": "/static/css/main.15e40725.css.map",
+    "main.a0876bff.js.map": "/static/js/main.a0876bff.js.map",
+    "787.0f8d78ff.chunk.js.map": "/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e40725.css",
+    "static/js/main.a0876bff.js"
+  ]
+}
